@@ -1,2 +1,2 @@
-# challanges
-This are my challanges for you
+# Challenges
+This are my challenges for you
